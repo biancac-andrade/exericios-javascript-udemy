@@ -1,0 +1,1 @@
+## exercicio de javascrpit basico no udemy
